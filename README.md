@@ -1,6 +1,6 @@
 # SSUG Status Page
 
-SSUG Status Page 是一个基于 [uptime-status](https://github.com/lyc8503/uptime-status) 的状态监控页面, 由 VrianCao 汉化, 用于监控 SSUG 各项服务的运行状态。
+SSUG Status Page 是一个基于 [UptimeFlare](https://github.com/lyc8503/UptimeFlare) 的状态监控页面, 由 VrianCao 汉化, 用于监控 SSUG 各项服务的运行状态。
 
 ## 功能特点
 
