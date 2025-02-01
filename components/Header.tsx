@@ -29,7 +29,7 @@ export default function Header() {
               variant="gradient"
               gradient={{ from: 'blue', to: 'cyan', deg: 90 }}
             >
-              VrianCao&apos;s
+              SSUG&apos;s
             </Text>
             <Text size="xl" span>
               {' 🕒 '}
